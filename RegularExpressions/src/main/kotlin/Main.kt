@@ -1,8 +1,16 @@
 fun main() {
-    val detector = FloatDetector()
+    val detector = BinaryDetector()
 
+//    binary test
+//    println(detector.detectType("1000110100001"))
+//    println(detector.detectType(""))
+//    println(detector.detectType("1a0"))
+//    println(detector.detectType("1.11"))
+//    println(detector.detectType("111"))
+//    println(detector.detectType("01"))
+//    println(detector.detectType("10"))
+//    println(detector.detectType("101"))
 
-    
 //    float test
 //    println(detector.detectType(""))
 //    println(detector.detectType("1.11"))
