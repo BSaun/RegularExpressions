@@ -1,8 +1,16 @@
-fun main(args: Array<String>) {
-    val intDetector = IntegerDetector()
-    println(intDetector.detectType(""))
-    println(intDetector.detectType("111"))
-    println(intDetector.detectType("11a1"))
-    println(intDetector.detectType("012"))
-    println(intDetector.detectType("551652415216521524112"))
+fun main() {
+    val detector = FloatDetector()
+
+
+    
+//    float test
+//    println(detector.detectType(""))
+//    println(detector.detectType("1.11"))
+//    println(detector.detectType("111"))
+//    println(detector.detectType("11.a1"))
+//    println(detector.detectType(".012"))
+//    println(detector.detectType("55165241.5216521524112"))
+//    println(detector.detectType("01.2"))
+//    println(detector.detectType("."))
+//    println(detector.detectType("1023.031"))
 }
