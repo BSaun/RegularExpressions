@@ -1,16 +1,4 @@
 fun main() {
-//    password test
-//    val detector = PasswordDetector()
-//    println(detector.isProperType("aaaaH!aa"))
-//    println(detector.isProperType("1234567*9J"))
-//    println(detector.isProperType("! am a Password"))
-//    println(detector.isProperType(""))
-//    println(detector.isProperType("a"))
-//    println(detector.isProperType("a!B"))
-//    println(detector.isProperType("aaaaaaa!"))
-//    println(detector.isProperType("aaaHaaaaa"))
-//    println(detector.isProperType("Abbbbbbb!"))
-
 //    email test
 //    println(detector.isProperType("{}*$.&$*(@*$%&.*&*"))
 //    println(detector.isProperType("a@b.c"))
