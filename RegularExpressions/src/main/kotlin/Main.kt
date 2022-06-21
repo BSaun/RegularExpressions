@@ -1,23 +1,4 @@
 fun main() {
-//    email test
-//    println(detector.isProperType("{}*$.&$*(@*$%&.*&*"))
-//    println(detector.isProperType("a@b.c"))
-//    println(detector.isProperType("joseph.ditton@usu.edu"))
-//    println(detector.isProperType("@b.c"))
-//    println(detector.isProperType("a@b@c.com"))
-//    println(detector.isProperType("a.b@b.b.c"))
-//    println(detector.isProperType("joseph ditton@usu.edu"))
-//
-//    binary test
-//    println(detector.isProperType("1000110100001"))
-//    println(detector.isProperType(""))
-//    println(detector.isProperType("1a0"))
-//    println(detector.isProperType("1.11"))
-//    println(detector.isProperType("111"))
-//    println(detector.isProperType("01"))
-//    println(detector.isProperType("10"))
-//    println(detector.isProperType("101"))
-//
 //    float test
 //    println(detector.isProperType(""))
 //    println(detector.isProperType("1.11"))
