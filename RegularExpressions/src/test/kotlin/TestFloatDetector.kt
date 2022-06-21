@@ -6,6 +6,7 @@ class TestFloatDetector {
     fun invalidCharacters() {
         val detector = FloatDetector()
         assertFalse(detector.isProperType("fd.sa"))
+        assertFalse(detector.isProperType(""))
         assertFalse(detector.isProperType("123.123fdsa"))
         assertFalse(detector.isProperType("@0.312"))
     }

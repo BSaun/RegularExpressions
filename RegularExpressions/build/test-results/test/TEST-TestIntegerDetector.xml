@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestIntegerDetector" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-21T23:53:07" hostname="DESKTOP-1FSOC4R" time="0.005">
+  <properties/>
+  <testcase name="invalidCharacters()" classname="TestIntegerDetector" time="0.003"/>
+  <testcase name="validIntegers()" classname="TestIntegerDetector" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
