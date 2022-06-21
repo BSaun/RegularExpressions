@@ -1,5 +1,14 @@
 fun main() {
-    val detector = BinaryDetector()
+    val detector = EmailDetector()
+
+//    email test
+    println(detector.detectType("{}*$.&$*(@*$%&.*&*"))
+    println(detector.detectType("a@b.c"))
+    println(detector.detectType("joseph.ditton@usu.edu"))
+    println(detector.detectType("@b.c"))
+    println(detector.detectType("a@b@c.com"))
+    println(detector.detectType("a.b@b.b.c"))
+    println(detector.detectType("joseph ditton@usu.edu"))
 
 //    binary test
 //    println(detector.detectType("1000110100001"))
