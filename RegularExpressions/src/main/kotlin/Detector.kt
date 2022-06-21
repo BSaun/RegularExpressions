@@ -1,7 +1,7 @@
 abstract class Detector {
     abstract var state : State
 
-    abstract fun detectType(input : String) : Boolean
+    abstract fun isProperType(input : String) : Boolean
 
     fun stripString(input: String): MutableList<String> {
         return input
